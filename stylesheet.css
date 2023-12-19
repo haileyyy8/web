@@ -1,0 +1,40 @@
+/*폰트*/
+body{font-family: 'Hahmlet', serif; font-weight: bold;}
+body{background-color: #FFECC1;}
+/*네비게이션영역*/
+.nav-link:hover,
+.nav-link.active {color: #edb544 !important;}
+
+/*캐러셀 영역*/
+.carousel-inner> .carousel-item > img {width: auto; height: 740px;}
+/*섹션2 - 버튼 최신문화예술 정보*/
+#card-hover:hover {
+  background-color: #edb544;}
+
+/*섹션3 커뮤니티*/
+#board {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+#board th, #board td {
+  padding: 10px;
+  border: 1px solid #96a756;
+  text-align: center;
+}
+#board th {
+  background-color: #edb544;
+}
+#board tr:nth-child(even) {
+  background-color: #96a756;
+}
+#board tr:hover {
+  background-color: #fcb7ba;
+}
+/* 버튼 스타일 */
+.btn:hover {
+  background-color: #96a756;
+}
+/*섹션4 뉴스레터*/
+
+
